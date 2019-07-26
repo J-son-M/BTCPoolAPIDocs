@@ -73,25 +73,25 @@ In the response body, `data`, ` err_no` and `err_msg` are fixed fields. The mean
 {
     "err_no": 0,
     "data": {
-        "user_id": 88888,
-        "user_name": "spica",
-        "address": "3NA8hsjfdgVkmmVS9moHmkZsVCoLxUkvvv ",
+        "user_id": 378406,
+        "user_name": "mu6duzd",
+        "address": "13wCP4mbFSYahEny2BVMNWAmjaMYrBcUYL ",
         "nmc_address": "",
         "rebates_address": "",
-        "region": "America",
+        "region": "Philippines",
         "contact": {
             "mail": "",
             "phone": {
-                "country": "86",
-                "number": "133****3333"
+                "country": "63",
+                "number": "0997***1161"
             }
         },
         "alert": {
             "hashrate_max": "0",
-            "hashrate_value": "0",
+            "hashrate_value": "3",
             "hashrate_unit": "T",
             "hashrate_alert": 0,
-            "miner_max": "0",
+            "miner_max": "1",
             "miner_value": "0",
             "miner_alert": 0,
             "alert_interval": 6
@@ -167,7 +167,7 @@ In the response body, `data`, ` err_no` and `err_msg` are fixed fields. The mean
                 "earnings": 1380002903,
                 "payment_time": "2017-02-13 01:45:37",
                 "payment_tx": "466af581cbf52af00dc0273ced28c17e8b7a7c6a92a4ce0ae104af4ff0d557c0",
-                "address": "3NA8hsjfdgVkmmVS9moHmkZsVCoLxUkvvv",
+                "address": "13wCP4mbFSYahEny2BVMNWAmjaMYrBcUYL",
                 "paid_amount": 1380002903,
                 "diff": 422170566884,
                 "payment_mode": "PPS",
@@ -214,7 +214,7 @@ In the response body, `data`, ` err_no` and `err_msg` are fixed fields. The mean
 #### Parameter
 
 |name|type|note|
-|---|----|----|
+|mu6duzd|----|----|
 |access_key|str| |
 |puid|int||
 
